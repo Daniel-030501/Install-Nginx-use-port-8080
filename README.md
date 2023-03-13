@@ -1,11 +1,11 @@
 # Install-Nginx-use-port-8080
-==============================================================================
+===========================================================================
 
 #Copy script to server Ubuntu
 # give permission to script use chmod +x install_nginx.sh
 # run script use ./install_nginx.sh
 
-==============================================================================
+===========================================================================
 
 script explanation:
 
@@ -18,4 +18,4 @@ script explanation:
 6.  Finally, check the status of Nginx by running the command sudo systemctl status nginx. This will provide information about whether the Nginx service is running or 
     not.
 
-==============================================================================
+===========================================================================
